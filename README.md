@@ -1,7 +1,5 @@
 # SSL-Root-Frida-bypass
 
 Credits-
-
-Apkunpacker
-
+Apkunpacker 
 baltpeter
